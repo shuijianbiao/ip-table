@@ -1,0 +1,2365 @@
+proxies:
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-1
+    server: 54.36.174.181
+    type: ss
+    port: 6379
+    udp: true
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-Datacamp Limited-1
+    server: 212.102.53.197
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 法国-鲁贝-OVH SAS-1
+    server: 149.202.82.172
+    type: ss
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-Datacamp Limited-2
+    server: uk-dc1.yangon.club
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 芬兰-赫尔辛基-ONEPROVIDER-1
+    server: 37.143.129.230
+    type: ss
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 加拿大-Beauharnois-OVH SAS-1
+    server: 142.4.216.225
+    type: ss
+    port: 80
+    password: JIhN6rBKkaEboLNXVSv5rq
+    cipher: chacha20-ietf-poly1305
+  - name: 法国-鲁贝-OVH SAS-2
+    server: 149.202.82.172
+    type: ss
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-1
+    server: 80.92.204.106
+    type: ss
+    port: 9024
+    password: BejrQvtu9sqUeNuZ
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-2
+    server: 80.92.204.106
+    type: ss
+    port: 9005
+    password: ZET59LF6DvCC8KVt
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-3
+    server: 80.92.204.106
+    type: ss
+    port: 9027
+    password: EXN3S3eQpjE7EJu8
+    cipher: aes-256-cfb
+  - name: 英国-伦敦-Datacamp Limited-3
+    server: 212.102.53.194
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-4
+    server: 80.92.204.106
+    type: ss
+    port: 9080
+    password: VP8ZPxQpJtZRCjfZ
+    cipher: aes-256-cfb
+  - name: 波兰-华沙-3hcloud-1
+    server: 45.144.48.63
+    type: ss
+    port: 57456
+    password: d3837224ed465f00
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-华盛顿特区-GTHost-1
+    server: 38.107.226.238
+    type: ss
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-1
+    server: 38.121.43.71
+    type: ss
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-3hcloud-2
+    server: war.ssvpnapp.win
+    type: ss
+    port: 57456
+    password: d3837224ed465f00
+    cipher: chacha20-ietf-poly1305
+  - name: 波兰-华沙-OVH SAS-1
+    server: 51.77.53.200
+    type: ss
+    port: 5003
+    udp: true
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-1
+    server: 45.89.52.66
+    type: ss
+    port: 9029
+    password: dU3DSNS8wYPXzEKw
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-5
+    server: 80.92.204.106
+    type: ss
+    port: 9037
+    udp: true
+    password: TN2YqghxeFDKZfLU
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-6
+    server: 80.92.204.106
+    type: ss
+    port: 9084
+    udp: true
+    password: c3NtHJ5ujV2tGDfj
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-7
+    server: 80.92.204.106
+    type: ss
+    port: 9094
+    udp: true
+    password: rpgbNnU9rDDU4aWZ
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-8
+    server: 80.92.204.106
+    type: ss
+    port: 9010
+    udp: true
+    password: f63gg8EruDnUrmz4
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-9
+    server: 80.92.204.106
+    type: ss
+    port: 9019
+    udp: true
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-10
+    server: 80.92.204.106
+    type: ss
+    port: 9020
+    udp: true
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 美国-亚特兰大-GTHost-2
+    server: 38.121.43.97
+    type: ss
+    port: 8091
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-3
+    server: 38.121.43.71
+    type: ss
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 美国-华盛顿特区-GTHost-2
+    server: 38.107.226.238
+    type: ss
+    port: 2375
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-4
+    server: 38.121.43.71
+    type: ss
+    port: 5003
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-5
+    server: 38.121.43.71
+    type: ss
+    port: 7307
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-6
+    server: 38.121.43.97
+    type: ss
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-7
+    server: 38.121.43.97
+    type: ss
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-8
+    server: 38.121.43.97
+    type: ss
+    port: 8881
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-2
+    server: 51.77.53.200
+    type: ss
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-1
+    server: 145.239.6.202
+    type: ss
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-2
+    server: 145.239.6.202
+    type: ss
+    port: 6679
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-3
+    server: 145.239.6.202
+    type: ss
+    port: 8888
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-4
+    server: 145.239.6.202
+    type: ss
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-5
+    server: 145.239.6.202
+    type: ss
+    port: 9101
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 西班牙-马德里-Melbikomas UAB-1
+    server: 5.188.181.201
+    type: ss
+    port: 9025
+    password: XPtzA9sCug3SPR4c
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-2
+    server: 5.188.181.201
+    type: ss
+    port: 9029
+    password: dU3DSNS8wYPXzEKw
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-3
+    server: 5.188.181.201
+    type: ss
+    port: 9005
+    password: ZET59LF6DvCC8KVt
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-4
+    server: 5.188.181.201
+    type: ss
+    port: 9014
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-5
+    server: 5.188.181.201
+    type: ss
+    port: 9011
+    password: M3t2ZEQcMGRWBjRa
+    cipher: aes-256-cfb
+  - name: 法国-鲁贝-OVH SAS-3
+    server: 149.202.82.172
+    type: ss
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-9
+    server: 38.121.43.71
+    type: ss
+    port: 5001
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-10
+    server: 38.121.43.71
+    type: ss
+    port: 7002
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-11
+    server: 38.121.43.71
+    type: ss
+    port: 5004
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-12
+    server: 38.121.43.71
+    type: ss
+    port: 3306
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-13
+    server: 38.121.43.71
+    type: ss
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-14
+    server: 38.121.43.71
+    type: ss
+    port: 5000
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-15
+    server: 38.121.43.71
+    type: ss
+    port: 8091
+    udp: true
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-16
+    server: 38.121.43.71
+    type: ss
+    port: 2375
+    udp: true
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-华盛顿特区-GTHost-3
+    server: 38.107.226.146
+    type: ss
+    port: 1230
+    password: H5S0hvcxRi#YLmgU
+    cipher: chacha20-ietf-poly1305
+  - name: 西班牙-马德里-Melbikomas UAB-6
+    server: 5.188.181.201
+    type: ss
+    port: 9037
+    udp: true
+    password: TN2YqghxeFDKZfLU
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-7
+    server: 5.188.181.201
+    type: ss
+    port: 9031
+    udp: true
+    password: BwcAUZk8hUFAkDGN
+    cipher: aes-256-cfb
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-2
+    server: 45.89.52.66
+    type: ss
+    port: 9001
+    udp: true
+    password: UkXRsXvR6buDMG2Y
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-8
+    server: 5.188.181.201
+    type: ss
+    port: 9042
+    udp: true
+    password: S7KwUu7yBy58S3Ga
+    cipher: aes-256-cfb
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-3
+    server: 45.89.52.66
+    type: ss
+    port: 9030
+    udp: true
+    password: GeregetR8cvQHzYr
+    cipher: aes-256-cfb
+  - name: 波兰-华沙-OVH SAS-3
+    server: 51.77.53.200
+    type: ss
+    port: 8080
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-2
+    server: 54.36.174.181
+    type: ss
+    port: 3306
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-3
+    server: 54.36.174.181
+    type: ss
+    port: 8118
+    udp: true
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-4
+    server: 51.77.53.200
+    type: ss
+    port: 9102
+    udp: true
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-4
+    server: 54.36.174.181
+    type: ss
+    port: 3389
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-5
+    server: 51.77.53.200
+    type: ss
+    port: 6379
+    udp: true
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-17
+    server: 38.121.43.71
+    type: ss
+    port: 8882
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-5
+    server: 54.36.174.181
+    type: ss
+    port: 5004
+    udp: true
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-6
+    server: 54.36.174.181
+    type: ss
+    port: 8080
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-7
+    server: 54.36.174.181
+    type: ss
+    port: 8882
+    udp: true
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-8
+    server: 54.36.174.181
+    type: ss
+    port: 5000
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-6
+    server: 51.77.53.200
+    type: ss
+    port: 3389
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-9
+    server: 54.36.174.181
+    type: ss
+    port: 7306
+    udp: true
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-7
+    server: 51.77.53.200
+    type: ss
+    port: 3306
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-8
+    server: 51.77.53.200
+    type: ss
+    port: 6679
+    udp: true
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-10
+    server: 54.36.174.181
+    type: ss
+    port: 8119
+    udp: true
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-9
+    server: 51.77.53.200
+    type: ss
+    port: 8888
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-11
+    server: 54.36.174.181
+    type: ss
+    port: 5003
+    udp: true
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-12
+    server: 54.36.174.181
+    type: ss
+    port: 443
+    udp: true
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-4
+    server: 149.202.82.172
+    type: ss
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-10
+    server: 51.77.53.200
+    type: ss
+    port: 8882
+    udp: true
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-13
+    server: 54.36.174.181
+    type: ss
+    port: 4444
+    udp: true
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-14
+    server: 54.36.174.181
+    type: ss
+    port: 8888
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-15
+    server: 54.36.174.181
+    type: ss
+    port: 9101
+    udp: true
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 荷兰-Rozendaal-NForce Entertainment B.V.-1
+    server: 109.201.152.181
+    type: ss
+    port: 443
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-cfb
+  - name: 英国-倫敦金融城-OVH SAS-6
+    server: 145.239.6.202
+    type: ss
+    port: 8008
+    udp: true
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-7
+    server: 145.239.6.202
+    type: ss
+    port: 8090
+    udp: true
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-OVH SAS-1
+    server: 51.68.206.229
+    type: ss
+    port: 8118
+    udp: true
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-OVH SAS-2
+    server: 51.68.206.229
+    type: ss
+    port: 8080
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-5
+    server: 149.202.82.172
+    type: ss
+    port: 6379
+    udp: true
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-6
+    server: 149.202.82.172
+    type: ss
+    port: 8009
+    udp: true
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-7
+    server: 149.202.82.172
+    type: ss
+    port: 5000
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-8
+    server: 149.202.82.172
+    type: ss
+    port: 8091
+    udp: true
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-9
+    server: 149.202.82.172
+    type: ss
+    port: 8881
+    udp: true
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-10
+    server: 149.202.82.172
+    type: ss
+    port: 7002
+    udp: true
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 法国-塞纳河畔伊夫里-Online S.A.S.-1
+    server: 195.154.169.198
+    type: ss
+    port: 989
+    udp: true
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 法国-鲁贝-OVH SAS-11
+    server: 149.202.82.172
+    type: ss
+    port: 8888
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-12
+    server: 149.202.82.172
+    type: ss
+    port: 8118
+    udp: true
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-13
+    server: 149.202.82.172
+    type: ss
+    port: 9102
+    udp: true
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-14
+    server: 149.202.82.172
+    type: ss
+    port: 7307
+    udp: true
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 美国-凤凰城-Performive LLC-1
+    server: 184.170.241.194
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-cfb
+  - name: 法国-鲁贝-OVH SAS-15
+    server: 149.202.82.172
+    type: ss
+    port: 7306
+    udp: true
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-16
+    server: 149.202.82.172
+    type: ss
+    port: 5600
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-17
+    server: 149.202.82.172
+    type: ss
+    port: 5500
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-18
+    server: 149.202.82.172
+    type: ss
+    port: 8882
+    udp: true
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-19
+    server: 149.202.82.172
+    type: ss
+    port: 3389
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-20
+    server: 149.202.82.172
+    type: ss
+    port: 8000
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-21
+    server: 149.202.82.172
+    type: ss
+    port: 3306
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-22
+    server: 149.202.82.172
+    type: ss
+    port: 9101
+    udp: true
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-23
+    server: 149.202.82.172
+    type: ss
+    port: 7001
+    udp: true
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-24
+    server: 149.202.82.172
+    type: ss
+    port: 4444
+    udp: true
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-25
+    server: 149.202.82.172
+    type: ss
+    port: 2375
+    udp: true
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-1
+    server: 217.182.198.219
+    type: ss
+    port: 5003
+    udp: true
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-Datacamp Limited-4
+    server: 212.102.53.79
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 法国-鲁贝-OVH SAS-26
+    server: 149.202.82.172
+    type: ss
+    port: 5601
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-27
+    server: 149.202.82.172
+    type: ss
+    port: 5001
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-旧金山-DigitalOcean, LLC-1
+    server: 45.55.2.232
+    type: ss
+    port: 14293
+    password: 2170f8
+    cipher: aes-256-cfb
+  - name: 美国-亚特兰大-GTHost-18
+    server: 38.121.43.71
+    type: ss
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 英国-伦敦-Datacamp Limited-5
+    server: 212.102.53.193
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 英国-伦敦-Datacamp Limited-6
+    server: 212.102.53.80
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 英国-伦敦-Datacamp Limited-7
+    server: 212.102.53.81
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 英国-伦敦-Datacamp Limited-8
+    server: 212.102.53.196
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 英国-伦敦-Datacamp Limited-9
+    server: 212.102.53.78
+    type: ss
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 美国-Secaucus-Stark Industries Solutions LTD-1
+    server: 194.116.173.21
+    type: ss
+    port: 9038
+    password: gYCYXfkUQEs2TaJQ
+    cipher: aes-256-cfb
+  - name: 西班牙-马德里-Melbikomas UAB-9
+    server: 5.188.181.201
+    type: ss
+    port: 9000
+    password: a3GFYt36Sm82Vys9
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-11
+    server: 80.92.204.106
+    type: ss
+    port: 9011
+    password: M3t2ZEQcMGRWBjRa
+    cipher: aes-256-cfb
+  - name: 马耳他-瓦莱塔-Melita Limited-1
+    server: 171.22.254.17
+    type: ss
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 丹麦-巴勒魯普自治市-M247 Europe SRL-1
+    server: 192.36.27.94
+    type: ss
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 塞尔维亚-贝尔格莱德-M247 Europe SRL-1
+    server: 194.71.126.31
+    type: ss
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 克罗地亚-萨格勒布-Akton d.o.o.-1
+    server: 46.183.184.60
+    type: ss
+    port: 989
+    udp: true
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 土耳其-伊斯坦布尔-Iksir Internet Hizmetleri A.S.-1
+    server: 185.123.101.241
+    type: ss
+    port: 989
+    udp: true
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 冰岛-哈夫纳夫约杜尔-Advania Island ehf-1
+    server: 37.235.49.152
+    type: ss
+    port: 989
+    udp: true
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 比利时-布鲁塞尔-M247 Europe SRL-1
+    server: 192.71.249.78
+    type: ss
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 日本-Osaka-Oracle Corporation-1
+    server: 140.83.63.38
+    type: vmess
+    port: 24445
+    udp: true
+    uuid: 94c5ef37-4d82-49f9-c624-f01259374a17
+    alterId: 64
+    cipher: auto
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 荷兰-Meppel-Stark Industries Solutions LTD-1
+    server: 103.106.1.92
+    type: ss
+    country: 🇧🇩 BD
+    port: 23492
+    password: yMX9WGPgUEcRZmlaa0YHHC
+    cipher: chacha20-ietf-poly1305
+  - name: 加拿大-Beauharnois-OVH SAS-2
+    server: ca225.vpnbook.com
+    type: ss
+    country: 🇨🇦CA
+    port: 80
+    password: JIhN6rBKkaEboLNXVSv5rq
+    cipher: chacha20-ietf-poly1305
+  - name: 中国-合肥-China Unicom CHINA169 Anhui Province Network-1
+    server: 112.132.215.12
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /ivideos.sbs/linkws
+    servername: ury-unit-c030ehei8.poget71138.workers.dev
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 中国-北京-Hangzhou Alibaba Advertising Co-1
+    server: 47.92.152.169
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 中国-广州市-China Mobile-1
+    server: 183.236.51.36
+    type: vmess
+    country: 🇨🇳 CN
+    port: 59003
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 中国-青岛市-Hangzhou Alibaba Advertising Co-1
+    server: 47.104.186.133
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /afrhms16v.bestxray.buzz/linkws
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 捷克-布拉格-Datacamp Limited-1
+    server: 195.181.160.6
+    type: ss
+    country: 🇨🇿 CZ
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Stark Industries Solutions LTD-1
+    server: 198.105.123.190
+    type: ss
+    country: 🇨🇿 CZ
+    port: 46902
+    password: >-
+      2UrSffeNABXGXXfNhoL6xBUnh1RzqMizrQ2s9QfC38P2YPuYPRTqW5zZg6jGisiNhkzM4SRjF6nzvFb18GPtESWoXWjhqyC8
+    cipher: chacha20-ietf-poly1305
+  - name: 波兰-华沙-BrainStorm Network, Inc-1
+    server: 92.118.205.228
+    type: ss
+    country: 🇩🇪 DE
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-12
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9031
+    password: BwcAUZk8hUFAkDGN
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-13
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9061
+    password: 4R3hUfZ2FHhDmNcP
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-14
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9046
+    password: NvS8N4Vf8qAGPSCL
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-15
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9015
+    password: ZpNDDKRu9MagNvaf
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-16
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9064
+    password: cp8pRSUAyLhTfVWH
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-17
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9098
+    password: aLpQtfEZe445QyHk
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-18
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9097
+    password: Sn5B7jTqr76aCJT8
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-19
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9006
+    password: FAdUvMJUq5vDgKEq
+    cipher: aes-256-cfb
+  - name: 德国-法兰克福-Stark Industries Solutions LTD-20
+    server: 80.92.204.106
+    type: ss
+    country: 🇩🇪DE
+    port: 9025
+    password: XPtzA9sCug3SPR4c
+    cipher: aes-256-cfb
+  - name: 芬兰-赫尔辛基-xorek.cloud International LTD-1
+    server: 150.241.97.216
+    type: ss
+    country: 🇪🇸 ES
+    port: 26039
+    password: gj1dvw15nnjIyMSjSficeC
+    cipher: chacha20-ietf-poly1305
+  - name: 德国-萨尔布吕肯-OVH SAS-2
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-8
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 3389
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-9
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 4444
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-3
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 3389
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-4
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-16
+    server: 54.36.174.181
+    type: ss
+    country: 🇫🇷FR
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-5
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 9101
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-6
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 3306
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-10
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-17
+    server: 54.36.174.181
+    type: ss
+    country: 🇫🇷FR
+    port: 7307
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-11
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-12
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 8009
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-13
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 3306
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-28
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 5004
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-29
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 6679
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-7
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 2375
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-30
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-31
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-18
+    server: 54.36.174.181
+    type: ss
+    country: 🇫🇷FR
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-8
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8009
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-14
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 5000
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-9
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 4444
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-10
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 5000
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-11
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-12
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 5001
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-13
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8091
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 英国-倫敦金融城-OVH SAS-15
+    server: 145.239.6.202
+    type: ss
+    country: 🇫🇷FR
+    port: 7001
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-14
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-弗罗茨瓦夫-OVH SAS-19
+    server: 54.36.174.181
+    type: ss
+    country: 🇫🇷FR
+    port: 9102
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-15
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 7306
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-32
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 5003
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 德国-萨尔布吕肯-OVH SAS-16
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 法国-塞纳河畔伊夫里-Online S.A.S.-2
+    server: 195.154.185.174
+    type: ss
+    country: 🇫🇷FR
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 德国-萨尔布吕肯-OVH SAS-17
+    server: 217.182.198.219
+    type: ss
+    country: 🇫🇷FR
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 法国-鲁贝-OVH SAS-33
+    server: 149.202.82.172
+    type: ss
+    country: 🇫🇷FR
+    port: 443
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 挪威-奥斯陆-ITM NORD-1
+    server: 185.5.38.111
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa
+    cipher: chacha20-ietf-poly1305
+  - name: 波多黎各-圣胡安-BrainStorm Network, Inc-1
+    server: 185.47.255.22
+    type: ss
+    country: 🇬🇧 GB
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 土耳其-Ataşehir-Hostkey B.V.-1
+    server: 185.24.151.214
+    type: ss
+    country: 🇬🇧 GB
+    port: 52952
+    password: >-
+      LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
+    cipher: chacha20-ietf-poly1305
+  - name: 英国-Stretford-M247 Europe SRL-1
+    server: 141.98.101.178
+    type: ss
+    country: 🇬🇧 GB
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 挪威-奥斯陆-ITM NORD-2
+    server: 185.5.38.111
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      4ju873evpjeaAi8Zq12YoRHWp63o5exdnZ71aUg1YEChiPTc2HkasYhUBxRz7UGi4K6cLrsGaU6b44H4Qa6f4cJn3zBp2cnX
+    cipher: chacha20-ietf-poly1305
+  - name: 挪威-奥斯陆-ITM NORD-3
+    server: mx2.drawnrisha.one
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt
+    cipher: chacha20-ietf-poly1305
+  - name: 挪威-奥斯陆-ITM NORD-4
+    server: 185.5.38.111
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      2EmWRS1TkS3TkxKApnrihb3aHjDSXRvT1T1K9U2Bruxrnp5A8zmpTxwwTNje6BkVqmn9BgRF6pq8qoRHCfZdcah7BLbjrpT1
+    cipher: chacha20-ietf-poly1305
+  - name: 厄瓜多尔-基多-ONEPROVIDER-1
+    server: 185.47.253.227
+    type: ss
+    country: 🇬🇧 GB
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 挪威-奥斯陆-ITM NORD-5
+    server: mx2.drawnrisha.one
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9
+    cipher: chacha20-ietf-poly1305
+  - name: 挪威-奥斯陆-ITM NORD-6
+    server: 185.5.38.111
+    type: ss
+    country: 🇬🇧 GB
+    port: 55988
+    password: >-
+      iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq
+    cipher: chacha20-ietf-poly1305
+  - name: 英国-伦敦-Datacamp Limited-10
+    server: 212.102.53.195
+    type: ss
+    country: 🇬🇧GB
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 香港-香港-Leaseweb Hong Kong Limited-1
+    server: 203.23.128.33
+    type: ss
+    country: 🇭🇰 HK
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 香港-香港-HostHatch-1
+    server: hong-kong.keenvpn.me
+    type: ss
+    country: 🇭🇰 HK
+    port: 443
+    password: 2afbc97400ca71c8f3306f9843a6e1c2
+    cipher: chacha20-ietf-poly1305
+  - name: 新加坡-新加坡-Greywolf Networks Pte. Ltd.-1
+    server: 103.36.91.23
+    type: ss
+    country: 🇭🇰 HK
+    port: 8388
+    password: asd123456
+    cipher: chacha20-ietf
+  - name: 香港-香港-HostHatch-2
+    server: 216.250.97.118
+    type: ss
+    country: 🇭🇰 HK
+    port: 443
+    password: 2afbc97400ca71c8f3306f9843a6e1c2
+    cipher: chacha20-ietf-poly1305
+  - name: 印度-班加羅爾-DigitalOcean, LLC-1
+    server: 159.65.149.72
+    type: ss
+    country: 🇮🇳 IN
+    port: 51348
+    password: p7EhC8MR7o7GuRn27YF8SQNAKJ2lUbBNIjcyqSmBHsy8wLbJ
+    cipher: chacha20-ietf-poly1305
+  - name: 日本-东京-Amazon Technologies Inc.-1
+    server: jp01-alt-vm0.entry.srthdw.art
+    type: vmess
+    country: 🇯🇵JP
+    port: 21583
+    uuid: c4b2e7ea-1a0e-316f-8e28-0717cc087534
+    alterId: 1
+    cipher: auto
+    network: tcp
+    http-opts: {}
+    h2-opts: {}
+    tls: true
+    skip-cert-verify: true
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-1
+    server: 45.158.171.151
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-2
+    server: 45.87.175.178
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-3
+    server: 45.87.175.178
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-4
+    server: 45.87.175.199
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-5
+    server: 45.87.175.199
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-6
+    server: 45.87.175.199
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-7
+    server: 45.87.175.181
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-8
+    server: 45.87.175.181
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-9
+    server: 45.87.175.166
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-10
+    server: 45.87.175.154
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-11
+    server: 45.87.175.181
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-12
+    server: 45.87.175.181
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-13
+    server: 45.87.175.178
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-14
+    server: 45.87.175.164
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-15
+    server: 45.87.175.157
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-16
+    server: 45.87.175.164
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-17
+    server: 45.158.171.141
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-18
+    server: 45.87.175.154
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-19
+    server: 45.87.175.164
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-20
+    server: beesyar.org
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: cvII85TrW6n0OGyfpHVS1u
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-21
+    server: beesyar.org
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 4a2rfixophdjffa8KVA4Aa
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-22
+    server: beesyar.org
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-23
+    server: beesyar.org
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-24
+    server: 45.87.175.166
+    type: ss
+    country: 🇱🇹 LT
+    port: 8080
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    cipher: chacha20-ietf-poly1305
+  - name: 摩洛哥-Fes-ONEPROVIDER-1
+    server: 188.214.157.154
+    type: ss
+    country: 🇲🇩 MD
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 马其顿-斯科普里-Akton d.o.o.-1
+    server: 46.183.185.37
+    type: ss
+    country: 🇲🇰MK
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-25
+    server: 103.104.247.49
+    type: ss
+    country: 🇳🇱 NL
+    port: 8080
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-26
+    server: 103.104.247.47
+    type: ss
+    country: 🇳🇱 NL
+    port: 8080
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-27
+    server: 193.29.139.138
+    type: ss
+    country: 🇳🇱 NL
+    port: 8080
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-28
+    server: 193.29.139.251
+    type: ss
+    country: 🇳🇱NL
+    port: 8080
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-29
+    server: 193.29.139.202
+    type: ss
+    country: 🇳🇱NL
+    port: 8080
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-阿姆斯特丹-Online SAS NL-1
+    server: 51.15.27.48
+    type: ss
+    country: 🇳🇱NL
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
+  - name: 波兰-华沙-OVH SAS-11
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 9101
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-12
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-13
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 7001
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-14
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 5004
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-15
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 7307
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-16
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 2375
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-17
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-18
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-19
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 7002
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-20
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 5000
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-21
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 4444
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-22
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 7306
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-23
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-24
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8000
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-25
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8009
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-26
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8091
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-27
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8881
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-28
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 5601
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-29
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 5001
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-30
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 波兰-华沙-OVH SAS-31
+    server: 51.77.53.200
+    type: ss
+    country: 🇵🇱PL
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 俄罗斯联邦-莫斯科-Global Internet Solutions LLC-1
+    server: 45.151.62.54
+    type: ss
+    country: 🇷🇺 RU
+    port: 28825
+    password: 0zyDRZ1XmNXaaCAN7KEA8a
+    cipher: chacha20-ietf-poly1305
+  - name: 香港-香港-Global Connectivity Solutions LLP-1
+    server: 141.98.234.93
+    type: ss
+    country: 🇷🇺 RU
+    port: 20012
+    password: WfmxKX2FBJRU0Ie9VLIYDL
+    cipher: chacha20-ietf-poly1305
+  - name: 荷兰-北荷兰省-Global Connectivity Solutions LLP-1
+    server: 89.23.103.125
+    type: ss
+    country: 🇷🇺 RU
+    port: 42090
+    password: uQS5ntVqC00sSKkeNzUiD3
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-亚特兰大-Global Connectivity Solutions LLP-1
+    server: 92.118.112.111
+    type: ss
+    country: 🇷🇺 RU
+    port: 18622
+    password: gmYDzSG6K35s8b19oY4fGz
+    cipher: chacha20-ietf-poly1305
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-4
+    server: 45.89.52.66
+    type: ss
+    country: 🇷🇺RU
+    port: 9003
+    password: JdmRK9gMEqFgs8nP
+    cipher: aes-256-cfb
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-5
+    server: 45.89.52.66
+    type: ss
+    country: 🇷🇺RU
+    port: 9014
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-6
+    server: 45.89.52.66
+    type: ss
+    country: 🇷🇺RU
+    port: 9042
+    password: S7KwUu7yBy58S3Ga
+    cipher: aes-256-cfb
+  - name: 土耳其-伊兹密尔-Stark Industries Solutions LTD-7
+    server: 45.89.52.66
+    type: ss
+    country: 🇷🇺RU
+    port: 9005
+    password: ZET59LF6DvCC8KVt
+    cipher: aes-256-cfb
+  - name: 西班牙-巴塞罗那-BrainStorm Network, Inc-1
+    server: 45.154.206.192
+    type: ss
+    country: 🇸🇪 SE
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-Ashburn-GTHost-1
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 韩国-首尔特别市-Kaopu Cloud HK Limited-1
+    server: 154.90.63.193
+    type: ss
+    country: 🇺🇸 US
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-Ashburn-GTHost-2
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 7306
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 美国-Ashburn-GTHost-3
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 美国-Ashburn-GTHost-4
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 9102
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 美国-Ashburn-GTHost-5
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 9101
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 加拿大-Pointe-Claire-Dedicated.com-1
+    server: 64.74.163.130
+    type: ss
+    country: 🇺🇸 US
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-Ashburn-GTHost-6
+    server: 142.202.49.122
+    type: ss
+    country: 🇺🇸 US
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 美国-Ashburn-GTHost-7
+    server: 142.202.49.84
+    type: ss
+    country: 🇺🇸 US
+    port: 5001
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 立陶宛-维尔纽斯-Hostkey B.V.-1
+    server: 107.181.155.244
+    type: ss
+    country: 🇺🇸 US
+    port: 55330
+    password: >-
+      rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-西雅圖-Datacamp Limited-1
+    server: 212.102.47.130
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 瑞士-苏黎世-Datacamp Limited-1
+    server: 156.146.62.162
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 瑞士-苏黎世-Datacamp Limited-2
+    server: 156.146.62.161
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 荷兰-阿姆斯特丹-Des Equity LLC-1
+    server: 208.67.105.196
+    type: ss
+    country: 🇺🇸 US
+    port: 42029
+    password: >-
+      SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-達拉斯-Datacamp Limited-1
+    server: 156.146.38.167
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 美国-Ashburn-GTHost-8
+    server: 142.202.49.84
+    type: ss
+    country: 🇺🇸 US
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 美国-達拉斯-Datacamp Limited-2
+    server: 156.146.38.170
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 瑞士-苏黎世-Datacamp Limited-3
+    server: 156.146.62.164
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 瑞士-苏黎世-Datacamp Limited-4
+    server: 156.146.62.163
+    type: ss
+    country: 🇺🇸 US
+    port: 443
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 菲律宾-马尼拉-Kaopu Cloud HK Limited-1
+    server: 154.90.37.139
+    type: ss
+    country: 🇺🇸 US
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-Ashburn-GTHost-9
+    server: 142.202.49.84
+    type: ss
+    country: 🇺🇸 US
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 荷兰-阿姆斯特丹-Des Equity LLC-2
+    server: 208.67.105.87
+    type: ss
+    country: 🇺🇸 US
+    port: 42501
+    password: >-
+      nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-Ashburn-GTHost-10
+    server: 142.202.49.84
+    type: ss
+    country: 🇺🇸 US
+    port: 6679
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 美国-Ashburn-GTHost-11
+    server: 142.202.49.84
+    type: ss
+    country: 🇺🇸 US
+    port: 5003
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 美国-紐約-Stark Industries Solutions LTD-1
+    server: 94.131.123.147
+    type: ss
+    country: 🇺🇸 US
+    port: 7383
+    password: eSHEdJz96rqNkOCAzd5Csv
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-聖荷西-PEG TECH INC-1
+    server: 107.148.207.249
+    type: vmess
+    country: 🇺🇸 US
+    port: 48712
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    servername: appsvs.shop
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 中国-郴州-PEG TECH INC-1
+    server: 142.4.104.33
+    type: vmess
+    country: 🇺🇸 US
+    port: 52143
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: 美国-洛杉矶-GTHost-1
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 2375
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-19
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 4444
+    password: pKEW8JPByTVTLtM
+    cipher: aes-256-gcm
+  - name: 荷兰-阿姆斯特丹-Greenhost BV-30
+    server: 45.158.171.66
+    type: ss
+    country: 🇺🇸US
+    port: 8080
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-洛杉矶-GTHost-2
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-Techavenue International Ltd-1
+    server: 154.3.8.151
+    type: ss
+    country: 🇺🇸US
+    port: 30067
+    password: iUB0923RBA
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-20
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 8009
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-3
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 6697
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-21
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 5601
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-4
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-22
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 5500
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-23
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-5
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 3306
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-24
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 6379
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 美国-华盛顿特区-GTHost-4
+    server: 38.86.135.211
+    type: ss
+    country: 🇺🇸US
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-6
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 7001
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-7
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-25
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 8090
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-26
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 8881
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-8
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 美国-紐華克-GTHost-1
+    server: 142.202.48.105
+    type: ss
+    country: 🇺🇸US
+    port: 3389
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-9
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8119
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-27
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 2376
+    password: faBAoD54k87UJG7
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-10
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 5601
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 土耳其-Ataşehir-Hostkey B.V.-2
+    server: exchange.gameaurela.click
+    type: ss
+    country: 🇺🇸US
+    port: 52952
+    password: >-
+      LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
+    cipher: chacha20-ietf-poly1305
+  - name: 美国-亚特兰大-GTHost-28
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 7001
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-29
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 5000
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-30
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 7306
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-31
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-紐華克-GTHost-2
+    server: 142.202.48.105
+    type: ss
+    country: 🇺🇸US
+    port: 5004
+    password: g5MeD6Ft3CWlJId
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-32
+    server: 38.121.43.6
+    type: ss
+    country: 🇺🇸US
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-11
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8882
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-12
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8080
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-13
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 9101
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-14
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 9102
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-33
+    server: 38.121.43.97
+    type: ss
+    country: 🇺🇸US
+    port: 7307
+    password: FoOiGlkAA9yPEGP
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-15
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8881
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-16
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 5600
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-34
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 8118
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-17
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8888
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-18
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8008
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-19
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 7002
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 美国-亚特兰大-GTHost-35
+    server: 38.121.43.71
+    type: ss
+    country: 🇺🇸US
+    port: 9102
+    password: e4FCWrgpkji3QY
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-20
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 9090
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 美国-洛杉矶-GTHost-21
+    server: 38.114.114.225
+    type: ss
+    country: 🇺🇸US
+    port: 8091
+    password: PCnnH6SQSnfoS27
+    cipher: aes-256-gcm
+  - name: 新加坡-新加坡-Kaopu Cloud HK Limited-1
+    server: 156.244.9.92
+    type: ss
+    country: 🇿🇦 ZA
+    port: 990
+    password: f8f7aCzcPKbsF8p3
+    cipher: chacha20-ietf-poly1305
+  - name: 越南-Bo-VNPT Corp-1
+    server: 160.19.78.75
+    type: ss
+    country: 🏁 ZZ
+    port: 443
+    password: Nk9asglDzHzjktVzTkvhaA
+    cipher: chacha20-ietf-poly1305
+mode: Global
