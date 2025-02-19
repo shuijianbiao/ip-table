@@ -20,6 +20,9 @@ async function getSub(url) {
 
     const data = yaml.load(text)
 
+    data.proxies = unique(data.proxies)
+
+
     data.port = 7890
     data.mode = 'Global'
     data['external-controller'] = '0.0.0.0:9090'
@@ -66,13 +69,26 @@ function clearPort(port = 9090) {
         });
     })
 }
+function unique(proxies) {
+    const map = new Map();
+    for (const item of proxies) {
+
+        const name = `${item.type}-${item.uuid ?? ''}-${item.server}-${item.port}`;
+        map.set(name, { ...item, name });
+
+    }
+    return Array.from(map.values());
+}
 
 async function main() {
     await clearPort(9090);
     const { proxies, headers } = await getSub(
-        'https://proxypool.link/clash/proxies'
+        // 'https://proxypool.link/clash/proxies'
+        // 'http://194.32.144.180:8080/clash/proxies'
+        'http://66.42.50.118:12580/clash/proxies'
     )
     console.log(headers);
+
 
     const p = exec('./mi -d .', {
         cwd: __dirname,
@@ -125,7 +141,7 @@ async function main() {
         mode: 'Global',
     }
 
-    writeFileSync(`./res/${dayjs().format('YYYY-MM-DD')}.yaml`, yaml.dump(newConfig), 'utf8')
+    writeFileSync(`./res/${dayjs().format('YYYY-MM-DD-HH:mm')}.yaml`, yaml.dump(newConfig), 'utf8')
 
     p.on('close', () => {
         console.log('Process closed');
